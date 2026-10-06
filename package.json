@@ -1,0 +1,16 @@
+{
+  "name": "renovate",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zerya-Dev/renovate.git"
+  },
+  "packageManager": "pnpm@12.9.1",
+  "scripts": {
+    "validate": "renovate-config-validator --strict"
+  },
+  "devDependencies": {
+    "renovate": "44.137.0"
+  }
+}

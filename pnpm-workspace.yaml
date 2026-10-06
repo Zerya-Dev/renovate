@@ -1,0 +1,5 @@
+allowBuilds:
+  re2: true
+  core-js-pure: false
+  dtrace-provider: false
+  protobufjs: false
